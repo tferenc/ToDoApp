@@ -74,6 +74,6 @@ public final class MessageDAO {
         throw new IllegalStateException();
     }
 
-    private MessageDAO() {
+    private MessageDAO()  {
     }
 }
