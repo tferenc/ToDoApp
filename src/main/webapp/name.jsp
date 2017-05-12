@@ -12,5 +12,6 @@
 <body>
 <h1>${msg}</h1>
 <a href="..">Go back</a>
+<div id="todolist"></div>
 </body>
 </html>

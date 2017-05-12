@@ -1,3 +1,36 @@
-h1 {
-    color: red;
+body{
+    text-align: center;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 20px;
 }
+#button{
+    border-radius: 5px;
+}
+
+#activity{
+    border-radius: 5px;
+    columns:30px;
+    resize: inherit;
+    margin-bottom: 5px;
+}
+#active{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.butt{
+    border-radius: 5px;
+    background-color: darksalmon;
+    color: black;
+}
+
+#done{
+    margin:10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
